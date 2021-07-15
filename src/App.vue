@@ -1,5 +1,8 @@
 <template>
+<div>
   <img alt="Vue logo" src="./assets/logo.png" />
+  <p>vue3.x + vite2.x + ts脚手架完成</p>
+</div>
 </template>
 
 <script lang="ts">
